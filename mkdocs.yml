@@ -1,0 +1,58 @@
+site_name: 'Git in 30 Minutes: A Beginner''s Guide for Technical Writers'
+site_url: https://www.git30minutes.com
+site_description: Free web edition + optional eBook. A concise, practical Git guide
+  for technical writers.
+theme:
+  name: material
+  icon:
+    logo: material/git
+  features:
+  - navigation.top
+  - navigation.sections
+  - navigation.footer
+  - content.code.copy
+  language: en
+  custom_dir: overrides
+  palette:
+    - scheme: slate
+      primary: black
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
+    - scheme: default
+      primary: blue
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+extra_css:
+- stylesheets/extra.css
+markdown_extensions:
+- admonition
+- toc:
+    permalink: true
+- pymdownx.superfences
+- pymdownx.highlight:
+    anchor_linenums: true
+    line_spans: __span
+    pygments_lang_class: true
+nav:
+- Home: index.md
+- Part I:
+  - Set Up and Initialize Your Project: 01-setup.md
+  - Make Your First Commit: 02-first-commit.md
+  - Check Status and Make Changes: 03-status.md
+- Part II:
+  - Branch Out: 04-branching.md
+  - Collaborate with Remote Repositories: 05-remotes.md
+- Appendices:
+  - Where to Go Next: A1-resources.md
+  - Top 10 Most Commonly Used Git Commands: A2-top10.md
+  - Example Scenario Using All 10 Commands: A3-example.md
+  - 10 Most Common Git Problems (and How To Resolve Them): A4-problems.md
+  - Git Glossary: A5-glossary.md
+  - Command Line Crash Course: A6-cli.md
+  - About the Author: A7-about.md
+- Buy the eBook: buy.md
