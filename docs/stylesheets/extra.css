@@ -1,2 +1,7 @@
 /* Optional small tweaks */
 .md-content { max-width: 920px; }
+
+/* remove title from top of left nav */
+.md-nav__title {
+  display: none;
+}
