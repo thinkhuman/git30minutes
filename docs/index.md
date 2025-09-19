@@ -22,7 +22,8 @@ Welcome to _Git in 30 Minutes: A Beginner’s Guide for Technical Writers_. With
 * You can use a terminal on your computer to enter basic commands. If you don't yet know how to use a terminal, see the _Command Line Crash Course_ section at the end of the book.
 * You're new to version control, and perhaps technical software tools in general.
 
-### What about visual Git tools?
+**What about visual Git tools?**
+
 There are several visual Git tools (desktop applications) that don't require using the command line, and development environments that come with Git features already integrated. These are great! 
 
 But for your first steps with Git, I strongly recommend learning basic operations on the command line first; starting this way helps you better understand how Git works as you encounter different environments and projects. 
