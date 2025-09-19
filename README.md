@@ -1,6 +1,6 @@
 # Git in 30 Minutes: A Beginner's Guide for Technical Writers
 
-![Book cover](images/git30mincover.jpg)
+![Book cover](docs/images/git30mincover.jpg)
 
 A concise, practical guide to learning Git basics quickly, written with technical writers in mind.
 
