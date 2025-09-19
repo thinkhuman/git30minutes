@@ -1,4 +1,5 @@
 # Buy the eBook (EPUB/PDF)
 
-<button class="gumroad-button" data-gumroad-product-id="https://hijamesgill.gumroad.com/l/git30minutes">Buy Now</button>
-<script src="https://gumroad.com/js/gumroad.js"></script>
+
+[Amazon](https://www.amazon.com/Start-Using-Git-NOW-30-Minute-ebook/dp/B0CW1NGPQK)
+[Gumroad](https://hijamesgill.gumroad.com/l/git30minutes)
