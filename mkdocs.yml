@@ -42,20 +42,17 @@ markdown_extensions:
     pygments_lang_class: true
 nav:
 - Home: index.md
-- Part I:
-  - Set Up and Initialize Your Project: 01-setup.md
-  - Make Your First Commit: 02-first-commit.md
-  - Check Status and Make Changes: 03-status.md
-- Part II:
-  - Branch Out: 04-branching.md
-  - Collaborate with Remote Repositories: 05-remotes.md
-- Appendices:
-  - Where to Go Next: A1-resources.md
-  - Top 10 Most Commonly Used Git Commands: A2-top10.md
-  - Example Scenario Using All 10 Commands: A3-example.md
-  - 10 Most Common Git Problems (and How To Resolve Them): A4-problems.md
-  - Git Glossary: A5-glossary.md
-  - Command Line Crash Course: A6-cli.md
+- Step 1 - Set Up and Initialize Your Project: 01-setup.md
+- Step 2 - Make Your First Commit: 02-first-commit.md
+- Step 3- Check Status and Make Changes: 03-status.md
+- Step 4 - Branch Out: 04-branching.md
+- Step 5 - Collaborate with Remote Repositories: 05-remotes.md
+- Where to Go Next: A1-resources.md
+- Top 10 Most Commonly Used Git Commands: A2-top10.md
+- Example Scenario Using All 10 Commands: A3-example.md
+- 10 Most Common Git Problems (and How To Resolve Them): A4-problems.md
+- Git Glossary: A5-glossary.md
+- Command Line Crash Course: A6-cli.md
 - About the Author: A7-about.md
 - About this Book: thisbook.md
 - Buy the eBook: buy.md
